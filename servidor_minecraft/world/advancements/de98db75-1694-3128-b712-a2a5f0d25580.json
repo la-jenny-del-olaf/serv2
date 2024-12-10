@@ -52,6 +52,8 @@
       "minecraft:blaze": "2024-10-13 23:03:32 +0000",
       "minecraft:pillager": "2024-11-24 03:59:56 +0000",
       "minecraft:skeleton": "2024-10-02 03:51:31 +0000",
+      "minecraft:elder_guardian": "2024-12-10 04:10:33 +0000",
+      "minecraft:guardian": "2024-12-10 04:02:20 +0000",
       "minecraft:vindicator": "2024-11-24 04:01:09 +0000",
       "minecraft:spider": "2024-10-12 04:50:46 +0000",
       "minecraft:creeper": "2024-10-12 04:51:00 +0000",
@@ -5426,6 +5428,60 @@
   "travelersbackpack:recipes/building_blocks/dye_pink_sleeping_bag": {
     "criteria": {
       "has_needed_dye": "2024-12-10 01:24:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-12-10 04:04:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-10 04:02:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2024-12-10 04:10:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-10 04:02:21 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sponge": {
+    "criteria": {
+      "has_sponge": "2024-12-10 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-10 04:02:21 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2024-12-10 04:04:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-10 04:04:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-12-10 04:04:11 +0000"
     },
     "done": true
   },

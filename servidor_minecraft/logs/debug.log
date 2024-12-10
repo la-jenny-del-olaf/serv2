@@ -6060,3 +6060,173 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [10Dec2024 03:57:22.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ramonVG> gracias
 [10Dec2024 03:57:30.325] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-141, y=-56, z=-8}
 [10Dec2024 03:57:34.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> te hago tp jose pa que no camines todo xdxd
+[10Dec2024 03:58:01.350] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[10Dec2024 03:58:12.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Teleported JoseSDH to Mortal_linx]
+[10Dec2024 03:58:19.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseSDH> ora
+[10Dec2024 03:58:21.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseSDH> ag
+[10Dec2024 03:58:24.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> tr
+[10Dec2024 03:58:25.777] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9428ms or 188 ticks behind
+[10Dec2024 03:58:26.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseSDH> es que habia ido por cafe
+[10Dec2024 03:58:29.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> xddxdxdx
+[10Dec2024 03:58:34.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> no hay pedodxdx
+[10Dec2024 03:58:36.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseSDH> ya viste el templo?
+[10Dec2024 03:58:40.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> nop
+[10Dec2024 03:59:31.853] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2104ms or 42 ticks behind
+[10Dec2024 03:59:31.993] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JoseSDH moved too quickly! 9.282305402476425,4.537924026076823,0.06305696353638268
+[10Dec2024 03:59:39.076] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JoseSDH moved too quickly! 10.279181981415206,0.5534729497458386,-0.024414057127387423
+[10Dec2024 03:59:49.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseSDH> esperate
+[10Dec2024 03:59:53.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseSDH> putamadre
+[10Dec2024 03:59:56.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> xddx
+[10Dec2024 04:00:01.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseSDH> fuimos a la direccion equivada
+[10Dec2024 04:00:05.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> xdxdxdxdxdxdxddx
+[10Dec2024 04:00:27.165] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mortal_linx moved too quickly! -9.391548985937106,3.6631591832552033,-0.041447933277709126
+[10Dec2024 04:00:27.167] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JoseSDH moved too quickly! -9.368926970749385,4.4778325180304535,0.0011275980470486502
+[10Dec2024 04:00:38.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mortal_linx moved too quickly! -9.203592642672675,4.299960899393426,-0.3213772735073803
+[10Dec2024 04:00:38.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JoseSDH moved too quickly! -10.176145702271128,1.1085731415184483,0.0014402845488348248
+[10Dec2024 04:00:43.525] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JoseSDH moved too quickly! -9.238837469217401,4.1279556519640295,0.001283941335543659
+[10Dec2024 04:00:52.040] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mortal_linx moved too quickly! -10.375050726475706,1.638157646849976,-0.03501343855009509
+[10Dec2024 04:00:52.050] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JoseSDH moved too quickly! -10.200334093803804,-2.385804220335743,0.0015184561680143815
+[10Dec2024 04:01:01.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ramonVG moved too quickly! -7.678992112445485,4.76570327811686,-5.24484776774807
+[10Dec2024 04:01:01.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JoseSDH moved too quickly! -10.085635222647738,-1.5364609615302953,0.15050261721751212
+[10Dec2024 04:01:01.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mortal_linx moved too quickly! -10.198724957293962,-1.7183089217651997,0.10549455440337852
+[10Dec2024 04:01:03.927] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[10Dec2024 04:01:09.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mortal_linx moved too quickly! -9.671122590581604,4.069121052103533,-0.37910989280777585
+[10Dec2024 04:01:09.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JoseSDH moved too quickly! -9.414055142817574,4.537120229067256,0.0011275980470486502
+[10Dec2024 04:01:24.296] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JoseSDH moved too quickly! -9.86081760400566,2.303513461181012,0.001362112929655268
+[10Dec2024 04:01:26.891] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 04:01:26.900] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 04:01:55.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> ey
+[10Dec2024 04:01:57.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> ya lo vi dxdx
+[10Dec2024 04:02:05.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mortal_linx moved too quickly! -7.323010000167642,-5.763403609796562,-4.3997637334819615
+[10Dec2024 04:03:05.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Creative Mode]
+[10Dec2024 04:03:28.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Survival Mode]
+[10Dec2024 04:03:46.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> hay que traer esponjas
+[10Dec2024 04:04:01.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> el pedo es solo se consiguen aquí
+[10Dec2024 04:05:41.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Creative Mode]
+[10Dec2024 04:05:50.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Survival Mode]
+[10Dec2024 04:06:26.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ramonVG moved too quickly! -7.899902787183919,-1.906921858681926,-6.074626219700804
+[10Dec2024 04:06:27.561] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 04:06:27.586] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 04:06:27.699] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2100ms or 42 ticks behind
+[10Dec2024 04:06:45.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Creative Mode]
+[10Dec2024 04:06:58.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Survival Mode]
+[10Dec2024 04:07:06.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> ahi meroa
+[10Dec2024 04:07:14.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> ya abri
+[10Dec2024 04:07:30.226] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mortal_linx moved too quickly! 7.3821589161157135,-3.70425028467173,-6.096864248396287
+[10Dec2024 04:07:30.250] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3952ms or 79 ticks behind
+[10Dec2024 04:07:49.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseSDH drowned whilst trying to escape Guardian
+[10Dec2024 04:07:49.498] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for JoseSDH with unique ID travelersbackpack.standard_10.12.2024-04.07.49.dat
+[10Dec2024 04:07:49.521] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -1186 Y: 40.05149217144177 Z: -331
+[10Dec2024 04:07:57.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseSDH> niggers
+[10Dec2024 04:08:04.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Creative Mode]
+[10Dec2024 04:08:10.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseSDH> es que habia visto un cofre hasta abajo
+[10Dec2024 04:08:26.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Survival Mode]
+[10Dec2024 04:08:39.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Teleported JoseSDH to Mortal_linx]
+[10Dec2024 04:08:56.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> ahi esta el cuerpo flotando xdxd
+[10Dec2024 04:09:06.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ramonVG> hay si puden dormir, porfa
+[10Dec2024 04:09:23.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Creative Mode]
+[10Dec2024 04:09:31.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Survival Mode]
+[10Dec2024 04:09:47.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseSDH> como
+[10Dec2024 04:10:08.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseSDH> segundo intento del cofre
+[10Dec2024 04:10:12.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> xdxddx
+[10Dec2024 04:10:40.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseSDH drowned
+[10Dec2024 04:10:40.755] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for JoseSDH with unique ID travelersbackpack.standard_10.12.2024-04.10.40.dat
+[10Dec2024 04:10:40.756] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -1180 Y: 49.91136460897216 Z: -329
+[10Dec2024 04:10:52.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseSDH> ocupo picar paara desbloquearlo
+[10Dec2024 04:10:53.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Creative Mode]
+[10Dec2024 04:11:06.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Teleported JoseSDH to Mortal_linx]
+[10Dec2024 04:11:06.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Survival Mode]
+[10Dec2024 04:11:26.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> ya me lo chingue al guardian
+[10Dec2024 04:11:29.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseSDH> bob toronja
+[10Dec2024 04:11:32.574] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 04:11:32.599] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 04:11:32.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> dxxdxdxxd
+[10Dec2024 04:11:45.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseSDH> when eres la unica planta electrica que mata un papustain de un golpe
+[10Dec2024 04:11:50.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseSDH> puta madreeeeee
+[10Dec2024 04:11:54.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> deja la meto en un horno pa ir quitando el agua
+[10Dec2024 04:11:56.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseSDH> but no tienes daño en area
+[10Dec2024 04:12:01.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Creative Mode]
+[10Dec2024 04:12:07.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Survival Mode]
+[10Dec2024 04:12:15.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Creative Mode]
+[10Dec2024 04:12:26.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Survival Mode]
+[10Dec2024 04:12:48.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> tienas madera
+[10Dec2024 04:12:50.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> o algo
+[10Dec2024 04:12:53.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> pa quemar
+[10Dec2024 04:12:58.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseSDH> 2 algas
+[10Dec2024 04:13:03.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> va
+[10Dec2024 04:13:10.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseSDH> no jala
+[10Dec2024 04:13:16.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseSDH> tecer intento es la vnecida
+[10Dec2024 04:13:21.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> dxxdxd
+[10Dec2024 04:13:25.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Creative Mode]
+[10Dec2024 04:13:25.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseSDH> igual me muero y venfo cn mandera
+[10Dec2024 04:13:36.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Survival Mode]
+[10Dec2024 04:13:54.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseSDH drowned
+[10Dec2024 04:13:54.788] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for JoseSDH with unique ID travelersbackpack.standard_10.12.2024-04.13.54.dat
+[10Dec2024 04:13:54.788] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -1204 Y: 38.0 Z: -318
+[10Dec2024 04:14:11.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Creative Mode]
+[10Dec2024 04:14:14.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseSDH> pura mierda habia en el cofre
+[10Dec2024 04:14:20.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseSDH> deja agarro carbon
+[10Dec2024 04:15:12.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseSDH> ya
+[10Dec2024 04:15:14.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseSDH> to
+[10Dec2024 04:15:15.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> void
+[10Dec2024 04:15:15.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseSDH> tp
+[10Dec2024 04:15:20.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Survival Mode]
+[10Dec2024 04:15:30.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Teleported JoseSDH to Mortal_linx]
+[10Dec2024 04:15:34.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseSDH> su michelada en tarro de minion sir
+[10Dec2024 04:15:42.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> ya esta el templo seco po dentro
+[10Dec2024 04:16:09.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Creative Mode]
+[10Dec2024 04:16:11.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseSDH> apoco asi se seca
+[10Dec2024 04:16:25.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Survival Mode]
+[10Dec2024 04:16:32.046] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 04:16:32.060] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 04:16:33.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> con pura esponja
+[10Dec2024 04:16:37.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> si pones una
+[10Dec2024 04:16:44.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> es como si se creara
+[10Dec2024 04:16:46.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> un efecto
+[10Dec2024 04:16:52.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> de burbuja
+[10Dec2024 04:17:39.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseSDH> going dark
+[10Dec2024 04:17:45.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseSDH> aaaaaahhh operacion
+[10Dec2024 04:18:17.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseSDH> estoy en una esquina xd
+[10Dec2024 04:18:37.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Creative Mode]
+[10Dec2024 04:18:44.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Survival Mode]
+[10Dec2024 04:18:51.154] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
+[10Dec2024 04:19:55.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Creative Mode]
+[10Dec2024 04:21:06.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ramonVG> hay si pueden dormir
+[10Dec2024 04:21:33.854] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 04:21:33.863] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 04:22:38.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Survival Mode]
+[10Dec2024 04:22:50.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Creative Mode]
+[10Dec2024 04:22:58.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Survival Mode]
+[10Dec2024 04:23:03.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> oinche templo
+[10Dec2024 04:23:07.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> ta bien lleno
+[10Dec2024 04:23:12.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> de puras mierditas
+[10Dec2024 04:23:13.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> dxxddx
+[10Dec2024 04:23:16.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseSDH> ei
+[10Dec2024 04:23:18.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseSDH> ni esta chido
+[10Dec2024 04:24:10.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> hay pura esponja
+[10Dec2024 04:24:11.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> dxdxdx
+[10Dec2024 04:24:14.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseSDH> pff
+[10Dec2024 04:24:25.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseSDH> apoco aqui es el unico lugar donde hay esponjas
+[10Dec2024 04:24:30.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> seeee
+[10Dec2024 04:24:36.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseSDH> bruh
+[10Dec2024 04:24:45.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseSDH> bueno yo creo que la voy dejando por aqui
+[10Dec2024 04:24:51.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseSDH> yoooooooooouuuuuuuuuuu
+[10Dec2024 04:24:54.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseSDH> mr white
+[10Dec2024 04:24:57.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> dxxdxddxxd
+[10Dec2024 04:25:04.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> yo igual ya le voy a parar
+[10Dec2024 04:25:14.866] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ramonVG moved too quickly! 9.697690901328315,0.1840172067079351,-3.1489707374657883
+[10Dec2024 04:25:17.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> aqui dejo el server prendido por cualquier cosa
+[10Dec2024 04:25:21.483] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ramonVG moved too quickly! 10.165811530626343,2.566625267124735,-0.48693829926196486
+[10Dec2024 04:25:22.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseSDH> eso hubiese pasado si el señor blanco hubiese ido a los go karts con jessy
+[10Dec2024 04:25:28.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> xddxdxdxxddxdx
+[10Dec2024 04:25:43.350] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JoseSDH lost connection: Disconnected
+[10Dec2024 04:25:43.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseSDH left the game
+[10Dec2024 04:25:48.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> ahi se la ven
+[10Dec2024 04:25:51.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> adioooooos
+[10Dec2024 04:25:53.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ramonVG> adios
+[10Dec2024 04:25:53.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> baiiiiiiii
+[10Dec2024 04:25:59.112] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mortal_linx lost connection: Disconnected
+[10Dec2024 04:25:59.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mortal_linx left the game
+[10Dec2024 04:26:23.269] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ramonVG moved too quickly! -1.8812520560868506,-0.047817277169954764,10.149945402412413
+[10Dec2024 04:26:33.885] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 04:26:33.900] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
