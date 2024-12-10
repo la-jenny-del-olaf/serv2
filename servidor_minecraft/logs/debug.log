@@ -4903,3 +4903,13 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [10Dec2024 18:05:22.057] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [10Dec2024 18:06:57.187] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mortal_linx moved wrongly!
 [10Dec2024 18:07:35.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mortal_linx moved wrongly!
+[10Dec2024 18:08:03.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Creative Mode]
+[10Dec2024 18:10:21.957] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 18:10:21.966] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 18:15:21.990] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 18:15:22.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 18:16:34.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Survival Mode]
+[10Dec2024 18:18:05.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Creative Mode]
+[10Dec2024 18:18:37.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Survival Mode]
+[10Dec2024 18:18:43.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Creative Mode]
+[10Dec2024 18:18:53.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Survival Mode]

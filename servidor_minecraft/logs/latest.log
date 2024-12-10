@@ -160,3 +160,9 @@
 [10Dec2024 18:04:20.663] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Mortal_linx) moved too quickly! 7.147492672098451,1.1992418370699625,-9.673154699957763
 [10Dec2024 18:06:57.187] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mortal_linx moved wrongly!
 [10Dec2024 18:07:35.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mortal_linx moved wrongly!
+[10Dec2024 18:08:03.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Creative Mode]
+[10Dec2024 18:16:34.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Survival Mode]
+[10Dec2024 18:18:05.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Creative Mode]
+[10Dec2024 18:18:37.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Survival Mode]
+[10Dec2024 18:18:43.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Creative Mode]
+[10Dec2024 18:18:53.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Survival Mode]
