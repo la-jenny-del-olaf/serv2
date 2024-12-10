@@ -4931,3 +4931,11 @@ Things may not work well.
 [10Dec2024 01:24:39.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Survival Mode]
 [10Dec2024 01:24:49.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Creative Mode]
 [10Dec2024 01:24:56.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Survival Mode]
+[10Dec2024 01:27:57.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Creative Mode]
+[10Dec2024 01:28:05.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Survival Mode]
+[10Dec2024 01:28:19.177] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 01:28:19.192] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 01:33:19.112] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 01:33:19.121] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 01:34:51.298] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mortal_linx lost connection: Disconnected
+[10Dec2024 01:34:51.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mortal_linx left the game
