@@ -438,6 +438,7 @@
     "criteria": {
       "cabbage": "2024-10-13 00:44:42 +0000",
       "sweet_berries": "2024-10-12 05:19:27 +0000",
+      "brown_mushroom": "2024-12-10 00:52:23 +0000",
       "sugar_cane": "2024-10-12 23:46:54 +0000",
       "potato": "2024-10-13 00:39:44 +0000",
       "wheat": "2024-10-12 04:31:25 +0000"
@@ -5215,6 +5216,24 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2024-11-24 04:17:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-10 00:52:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-10 00:52:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-10 00:52:17 +0000"
     },
     "done": true
   },
