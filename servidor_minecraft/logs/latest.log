@@ -1,167 +1,195 @@
-[10Dec2024 00:35:54.661] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.1, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[10Dec2024 00:35:54.667] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[10Dec2024 00:35:55.291] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[10Dec2024 00:35:55.357] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/serv2/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[10Dec2024 00:35:55.784] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serv2/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.1/fmlcore-1.20.1-47.3.1.jar is missing mods.toml file
-[10Dec2024 00:35:55.786] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serv2/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.1/javafmllanguage-1.20.1-47.3.1.jar is missing mods.toml file
-[10Dec2024 00:35:55.787] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serv2/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.1/lowcodelanguage-1.20.1-47.3.1.jar is missing mods.toml file
-[10Dec2024 00:35:55.792] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serv2/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.1/mclanguage-1.20.1-47.3.1.jar is missing mods.toml file
-[10Dec2024 00:35:56.076] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
-[10Dec2024 00:36:00.417] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[10Dec2024 00:36:00.609] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[10Dec2024 00:36:00.682] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[10Dec2024 00:36:00.914] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
-[10Dec2024 00:36:00.949] [main/WARN] [mixin/]: Reference map 'smallships-forge-refmap.json' for smallships.mixins.json could not be read. If this is a development environment you can ignore this message
-[10Dec2024 00:36:02.949] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[10Dec2024 00:36:16.424] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
-[10Dec2024 00:36:17.986] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[10Dec2024 00:36:17.994] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[10Dec2024 00:36:17.997] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[10Dec2024 00:36:18.006] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[10Dec2024 00:36:18.007] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[10Dec2024 00:36:18.008] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[10Dec2024 00:36:18.010] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[10Dec2024 00:36:18.014] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[10Dec2024 00:36:18.393] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
-[10Dec2024 00:36:18.998] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.1, for MC 1.20.1 with MCP 20230612.114412
-[10Dec2024 00:36:19.002] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.1 Initialized
-[10Dec2024 00:36:19.499] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[10Dec2024 00:36:27.857] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
-[10Dec2024 00:36:27.998] [main/INFO] [journeymap/]: Initializing Packet Registries
-[10Dec2024 00:36:28.114] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[10Dec2024 00:36:28.115] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[10Dec2024 00:36:28.116] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[10Dec2024 00:36:28.116] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[10Dec2024 00:36:28.394] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: OUTDATED Current: 1.1.10 Target: 1.1.25
-[10Dec2024 00:36:28.396] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
-[10Dec2024 00:36:28.410] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[10Dec2024 00:36:28.545] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[10Dec2024 00:36:28.575] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[10Dec2024 00:36:28.587] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
-[10Dec2024 00:36:28.666] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.10-7 Target: null
-[10Dec2024 00:36:28.667] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[10Dec2024 00:36:28.949] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.10.1 Target: 5.10.3
-[10Dec2024 00:36:28.949] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[10Dec2024 00:36:29.029] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: OUTDATED Current: 9.1.15 Target: 9.1.16
-[10Dec2024 00:36:29.031] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Starting version check at https://raw.githubusercontent.com/talhanation/smallships/main/update.json
-[10Dec2024 00:36:29.077] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Found status: UP_TO_DATE Current: 2.0.0-b1.4 Target: null
-[10Dec2024 00:36:29.078] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[10Dec2024 00:36:29.268] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.1 Target: 47.3.12
-[10Dec2024 00:36:29.268] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
-[10Dec2024 00:36:30.025] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: OUTDATED Current: 1.20.1-1.0.12 Target: 1.20.1-1.0.18
-[10Dec2024 00:36:30.026] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Starting version check at https://mc-update-check.anthonyhilyard.com/499826
-[10Dec2024 00:36:30.089] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Found status: OUTDATED Current: 1.4.10 Target: 1.6.7
-[10Dec2024 00:36:35.654] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[10Dec2024 00:36:35.968] [main/WARN] [net.minecraftforge.common.ForgeHooks/WP]: The following mods have version differences that were not resolved:
-embeddium (version 0.3.31+mc1.20.1 -> MISSING)
-rubidium (version 0.7.1 -> MISSING)
-Things may not work well.
-[10Dec2024 00:36:40.194] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/serv2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23155!/assets/.mcassetsroot' uses unexpected schema
-[10Dec2024 00:36:40.196] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/serv2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23155!/data/.mcassetsroot' uses unexpected schema
-[10Dec2024 00:36:40.338] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:embeddium
-[10Dec2024 00:36:49.318] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 25 recipes
-[10Dec2024 00:36:49.654] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2791 advancements
-[10Dec2024 00:36:49.687] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
-[10Dec2024 00:36:49.695] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
-[10Dec2024 00:36:53.487] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[10Dec2024 00:36:53.488] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[10Dec2024 00:36:53.489] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[10Dec2024 00:36:53.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[10Dec2024 00:36:53.741] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[10Dec2024 00:36:53.793] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[10Dec2024 00:36:53.967] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[10Dec2024 00:36:53.967] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[10Dec2024 00:36:53.968] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[10Dec2024 00:36:53.969] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[10Dec2024 00:36:54.009] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[10Dec2024 00:36:54.013] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[10Dec2024 00:36:54.146] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[10Dec2024 00:37:12.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[10Dec2024 00:37:39.672] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.694] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.695] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.696] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.696] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.697] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.698] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.699] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.700] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.701] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.701] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.702] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.703] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.709] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.710] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.711] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.712] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.713] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.718] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.719] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.723] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.725] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.732] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.734] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.738] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.744] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.745] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.748] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.749] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.754] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.755] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.756] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.759] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.762] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.764] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.767] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.769] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.772] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.774] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.777] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.779] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.782] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.784] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.786] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.789] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.792] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.794] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.797] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.798] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.801] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.803] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.807] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.808] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.811] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:39.813] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:40.259] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:40.759] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:41.259] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 00:37:41.776] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
-[10Dec2024 00:37:42.468] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 29710 ms
-[10Dec2024 00:37:42.470] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (48.477s)! For help, type "help"
-[10Dec2024 00:37:42.543] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[10Dec2024 00:38:37.019] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mortal_linx[/100.91.0.87:65222] logged in with entity id 63 at (-2546.581236047484, 75.0, -3693.692409459912)
-[10Dec2024 00:38:37.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mortal_linx joined the game
-[10Dec2024 00:38:37.512] [Server thread/INFO] [Jade/]: Syncing config to Mortal_linx (de98db75-1694-3128-b712-a2a5f0d25580)
-[10Dec2024 00:38:52.404] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15364ms or 307 ticks behind
-[10Dec2024 00:38:59.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Survival Mode]
-[10Dec2024 00:39:24.750] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17360ms or 347 ticks behind
-[10Dec2024 00:39:43.473] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3733ms or 74 ticks behind
-[10Dec2024 00:39:43.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Creative Mode]
-[10Dec2024 00:40:28.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Survival Mode]
-[10Dec2024 00:40:31.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Creative Mode]
-[10Dec2024 00:40:38.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Survival Mode]
-[10Dec2024 00:40:38.673] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2322, y=-15, z=-3499}
-[10Dec2024 00:43:31.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Creative Mode]
-[10Dec2024 00:43:36.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Survival Mode]
-[10Dec2024 00:44:05.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Creative Mode]
-[10Dec2024 00:45:10.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Survival Mode]
-[10Dec2024 00:53:50.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Creative Mode]
-[10Dec2024 00:53:58.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Survival Mode]
-[10Dec2024 00:58:29.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Creative Mode]
-[10Dec2024 01:24:39.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Survival Mode]
-[10Dec2024 01:24:49.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Creative Mode]
-[10Dec2024 01:24:56.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Survival Mode]
-[10Dec2024 01:27:57.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Creative Mode]
-[10Dec2024 01:28:05.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Survival Mode]
-[10Dec2024 01:34:51.298] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mortal_linx lost connection: Disconnected
-[10Dec2024 01:34:51.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mortal_linx left the game
+[10Dec2024 02:57:19.403] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.1, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[10Dec2024 02:57:19.409] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[10Dec2024 02:57:23.789] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[10Dec2024 02:57:24.499] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/serv2/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[10Dec2024 02:57:25.404] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serv2/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.1/fmlcore-1.20.1-47.3.1.jar is missing mods.toml file
+[10Dec2024 02:57:25.406] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serv2/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.1/javafmllanguage-1.20.1-47.3.1.jar is missing mods.toml file
+[10Dec2024 02:57:25.407] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serv2/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.1/lowcodelanguage-1.20.1-47.3.1.jar is missing mods.toml file
+[10Dec2024 02:57:25.418] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serv2/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.1/mclanguage-1.20.1-47.3.1.jar is missing mods.toml file
+[10Dec2024 02:57:26.028] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
+[10Dec2024 02:57:31.582] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[10Dec2024 02:57:32.078] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[10Dec2024 02:57:32.300] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Dec2024 02:57:32.981] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Dec2024 02:57:33.015] [main/WARN] [mixin/]: Reference map 'smallships-forge-refmap.json' for smallships.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Dec2024 02:57:35.761] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[10Dec2024 02:57:59.685] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
+[10Dec2024 02:58:02.533] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[10Dec2024 02:58:02.534] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[10Dec2024 02:58:02.559] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[10Dec2024 02:58:02.561] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[10Dec2024 02:58:02.573] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[10Dec2024 02:58:02.574] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[10Dec2024 02:58:02.575] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[10Dec2024 02:58:02.584] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[10Dec2024 02:58:03.055] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[10Dec2024 02:58:04.024] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.1, for MC 1.20.1 with MCP 20230612.114412
+[10Dec2024 02:58:04.046] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.1 Initialized
+[10Dec2024 02:58:04.497] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[10Dec2024 02:58:14.746] [main/INFO] [journeymap/]: Initializing Packet Registries
+[10Dec2024 02:58:14.786] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
+[10Dec2024 02:58:14.972] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[10Dec2024 02:58:14.977] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[10Dec2024 02:58:14.989] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[10Dec2024 02:58:14.990] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[10Dec2024 02:58:15.478] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[10Dec2024 02:58:15.571] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[10Dec2024 02:58:15.582] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[10Dec2024 02:58:15.591] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
+[10Dec2024 02:58:16.062] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: OUTDATED Current: 1.1.10 Target: 1.1.25
+[10Dec2024 02:58:16.063] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[10Dec2024 02:58:16.667] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.10-7 Target: null
+[10Dec2024 02:58:16.668] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[10Dec2024 02:58:17.006] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.10.1 Target: 5.10.3
+[10Dec2024 02:58:17.006] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[10Dec2024 02:58:17.119] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: OUTDATED Current: 9.1.15 Target: 9.1.16
+[10Dec2024 02:58:17.140] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Starting version check at https://raw.githubusercontent.com/talhanation/smallships/main/update.json
+[10Dec2024 02:58:17.207] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Found status: UP_TO_DATE Current: 2.0.0-b1.4 Target: null
+[10Dec2024 02:58:17.208] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[10Dec2024 02:58:17.394] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.1 Target: 47.3.12
+[10Dec2024 02:58:17.394] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
+[10Dec2024 02:58:18.309] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: OUTDATED Current: 1.20.1-1.0.12 Target: 1.20.1-1.0.18
+[10Dec2024 02:58:18.310] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Starting version check at https://mc-update-check.anthonyhilyard.com/499826
+[10Dec2024 02:58:18.375] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Found status: OUTDATED Current: 1.4.10 Target: 1.6.7
+[10Dec2024 02:58:24.501] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[10Dec2024 02:58:28.918] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/serv2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23155!/assets/.mcassetsroot' uses unexpected schema
+[10Dec2024 02:58:28.921] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/serv2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23155!/data/.mcassetsroot' uses unexpected schema
+[10Dec2024 02:58:38.253] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 25 recipes
+[10Dec2024 02:58:38.928] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2791 advancements
+[10Dec2024 02:58:39.011] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[10Dec2024 02:58:39.044] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
+[10Dec2024 02:58:43.971] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[10Dec2024 02:58:43.973] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[10Dec2024 02:58:43.976] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[10Dec2024 02:58:43.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[10Dec2024 02:58:44.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[10Dec2024 02:58:44.526] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[10Dec2024 02:58:44.758] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10Dec2024 02:58:44.759] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[10Dec2024 02:58:44.760] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10Dec2024 02:58:44.760] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[10Dec2024 02:58:44.801] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[10Dec2024 02:58:44.804] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[10Dec2024 02:58:44.961] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[10Dec2024 02:59:10.329] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[10Dec2024 02:59:11.806] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[10Dec2024 02:59:25.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[10Dec2024 02:59:33.783] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Dec2024 02:59:33.811] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Dec2024 02:59:33.925] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Dec2024 02:59:33.928] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Dec2024 02:59:33.954] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Dec2024 02:59:33.961] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Dec2024 02:59:33.965] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Dec2024 02:59:33.970] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Dec2024 02:59:33.977] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Dec2024 02:59:33.993] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Dec2024 02:59:33.994] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Dec2024 02:59:34.000] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Dec2024 02:59:34.002] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Dec2024 02:59:34.004] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Dec2024 02:59:34.010] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Dec2024 02:59:34.021] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Dec2024 02:59:34.050] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Dec2024 02:59:34.451] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Dec2024 02:59:34.951] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Dec2024 02:59:35.451] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[10Dec2024 02:59:36.346] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 10396 ms
+[10Dec2024 02:59:36.348] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (51.558s)! For help, type "help"
+[10Dec2024 02:59:36.406] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[10Dec2024 03:00:02.216] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mortal_linx[/100.91.0.87:51016] logged in with entity id 183 at (-6.155656978921241, 63.0, -291.96487761564964)
+[10Dec2024 03:00:02.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mortal_linx joined the game
+[10Dec2024 03:00:02.927] [Server thread/INFO] [Jade/]: Syncing config to Mortal_linx (de98db75-1694-3128-b712-a2a5f0d25580)
+[10Dec2024 03:11:13.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Creative Mode]
+[10Dec2024 03:11:18.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Survival Mode]
+[10Dec2024 03:11:41.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Creative Mode]
+[10Dec2024 03:11:45.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Survival Mode]
+[10Dec2024 03:12:02.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Creative Mode]
+[10Dec2024 03:12:13.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Survival Mode]
+[10Dec2024 03:12:53.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Creative Mode]
+[10Dec2024 03:12:54.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Spectator Mode]
+[10Dec2024 03:13:08.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Creative Mode]
+[10Dec2024 03:13:26.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Spectator Mode]
+[10Dec2024 03:13:29.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Creative Mode]
+[10Dec2024 03:13:32.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Survival Mode]
+[10Dec2024 03:15:07.608] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mortal_linx lost connection: Disconnected
+[10Dec2024 03:15:07.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mortal_linx left the game
+[10Dec2024 03:16:37.925] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mortal_linx[/100.91.0.87:51167] logged in with entity id 2869 at (9.026769619746563, 63.0, -259.11461790829367)
+[10Dec2024 03:16:38.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mortal_linx joined the game
+[10Dec2024 03:16:38.082] [Server thread/INFO] [Jade/]: Syncing config to Mortal_linx (de98db75-1694-3128-b712-a2a5f0d25580)
+[10Dec2024 03:16:42.344] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JoseSDH[/100.89.121.65:53689] logged in with entity id 2904 at (-92.47489228018007, 63.0, 400.72046558103256)
+[10Dec2024 03:16:42.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseSDH joined the game
+[10Dec2024 03:16:42.397] [Server thread/INFO] [Jade/]: Syncing config to JoseSDH (b8643242-9503-301c-80e6-30b493d34bd5)
+[10Dec2024 03:16:47.976] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5577ms or 111 ticks behind
+[10Dec2024 03:17:14.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> ful bacaneria
+[10Dec2024 03:17:21.916] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JoseSDH lost connection: Disconnected
+[10Dec2024 03:17:21.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseSDH left the game
+[10Dec2024 03:17:35.230] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JoseSDH[/100.89.121.65:53708] logged in with entity id 3260 at (-90.7999304370165, 63.0, 395.2018476285544)
+[10Dec2024 03:17:35.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseSDH joined the game
+[10Dec2024 03:17:35.270] [Server thread/INFO] [Jade/]: Syncing config to JoseSDH (b8643242-9503-301c-80e6-30b493d34bd5)
+[10Dec2024 03:18:40.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> andas en mar?
+[10Dec2024 03:18:45.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseSDH> ei
+[10Dec2024 03:18:52.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> xddxdx
+[10Dec2024 03:19:03.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> con razon me marca que estas en el aire
+[10Dec2024 03:19:10.484] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JoseSDH moved too quickly! -0.003427770531587271,2.9139970874694825,-9.800034326742093
+[10Dec2024 03:20:22.691] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JoseSDH moved too quickly! 4.090621374872104,-0.047817277169954764,-9.321473631847226
+[10Dec2024 03:26:38.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Creative Mode]
+[10Dec2024 03:27:16.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Survival Mode]
+[10Dec2024 03:27:46.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Creative Mode]
+[10Dec2024 03:27:59.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Survival Mode]
+[10Dec2024 03:28:15.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Creative Mode]
+[10Dec2024 03:28:22.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Survival Mode]
+[10Dec2024 03:28:52.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseSDH> no tendras lana blanca?
+[10Dec2024 03:29:04.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> cuanto mas o menos?
+[10Dec2024 03:29:06.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Creative Mode]
+[10Dec2024 03:29:10.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseSDH> tres nomas
+[10Dec2024 03:29:12.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mortal_linx: Set own game mode to Survival Mode]
+[10Dec2024 03:29:17.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> tengo 4
+[10Dec2024 03:29:18.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> xddx
+[10Dec2024 03:31:15.868] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ramonVG[/100.86.94.67:55716] logged in with entity id 6757 at (2979.0633495481, 81.0, -10523.555455876414)
+[10Dec2024 03:31:15.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ramonVG joined the game
+[10Dec2024 03:31:15.943] [Server thread/INFO] [Jade/]: Syncing config to ramonVG (9379c9f5-8832-323d-90bf-60c841fad27c)
+[10Dec2024 03:31:27.606] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mortal_linx moved too quickly! -5.7784028279062625,1.0,8.14536407598257
+[10Dec2024 03:31:27.619] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11670ms or 233 ticks behind
+[10Dec2024 03:31:27.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> ola
+[10Dec2024 03:31:27.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> ola
+[10Dec2024 03:31:31.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseSDH> no habia un cofre lleno de piedra?
+[10Dec2024 03:31:35.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseSDH> olayosoymateo
+[10Dec2024 03:31:41.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ramonVG> ola
+[10Dec2024 03:31:45.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> onde?
+[10Dec2024 03:31:59.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseSDH> tons habra sido mi imaginacion
+[10Dec2024 03:32:16.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> pues hay piedra en el cofre de materiales
+[10Dec2024 03:32:18.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> creo
+[10Dec2024 03:32:18.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ramonVG> esta atras del cofre de encantamientos
+[10Dec2024 03:32:22.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> a
+[10Dec2024 03:32:23.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> xxdxd
+[10Dec2024 03:33:06.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ramonVG> se me reiniciaron todos los puntos que habia dejado, noooooo
+[10Dec2024 03:33:13.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> dale a la
+[10Dec2024 03:33:17.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> n
+[10Dec2024 03:33:19.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> o m
+[10Dec2024 03:33:25.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> como lo tengas configurado
+[10Dec2024 03:33:27.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseSDH> nom? la nom 027
+[10Dec2024 03:33:32.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> ya ahi los activas
+[10Dec2024 03:33:40.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> ey nom 027 de ruiz
+[10Dec2024 03:33:47.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> no dejar que brandon suelda
+[10Dec2024 03:34:03.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ramonVG> no, ni aparecen
+[10Dec2024 03:34:14.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> ahi viene hasta abajo en la letra chiquita
+[10Dec2024 03:34:16.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ramonVG> y de hecho tambin se me reinisio el mapa
+[10Dec2024 03:34:17.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> no?
+[10Dec2024 03:34:27.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> se te reinicio?
+[10Dec2024 03:34:31.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ramonVG> si
+[10Dec2024 03:34:32.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> yo si lo tengo normal
+[10Dec2024 03:34:48.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseSDH> me too
+[10Dec2024 03:34:53.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> dxxdxddxdx
+[10Dec2024 03:35:04.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> de que se te borro
+[10Dec2024 03:35:10.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> o de que si lo tienes
+[10Dec2024 03:35:23.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ramonVG> no tengo nada, solo en donde apareci
+[10Dec2024 03:35:33.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> Faaaaaaak
+[10Dec2024 03:36:10.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseSDH> estoy a 999m del templo maritimo
+[10Dec2024 03:36:20.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> te sigo
+[10Dec2024 03:36:26.254] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[10Dec2024 03:36:30.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> si quieren ahorita amos a la cueva
+[10Dec2024 03:36:32.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> cavernicola
+[10Dec2024 03:36:38.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ramonVG> no pasa nada, voy a seguir explorando
+[10Dec2024 03:36:44.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mortal_linx> ya tengo la entrada hecha
+[10Dec2024 03:37:06.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mortal_linx moved wrongly!
