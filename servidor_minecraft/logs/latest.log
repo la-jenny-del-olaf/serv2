@@ -106,3 +106,12 @@
 [11Dec2024 19:06:38.440] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5739ms or 114 ticks behind
 [11Dec2024 19:07:02.560] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ramonVG lost connection: Disconnected
 [11Dec2024 19:07:02.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ramonVG left the game
+[11Dec2024 19:08:04.154] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ramonVG[/100.86.94.67:60964] logged in with entity id 411 at (4225.429009241032, 148.0, -5886.889916389733)
+[11Dec2024 19:08:04.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ramonVG joined the game
+[11Dec2024 19:08:04.276] [Server thread/INFO] [Jade/]: Syncing config to ramonVG (9379c9f5-8832-323d-90bf-60c841fad27c)
+[11Dec2024 19:08:07.459] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3259ms or 65 ticks behind
+[11Dec2024 19:09:03.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ramonVG was slain by Zombie
+[11Dec2024 19:09:03.745] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ramonVG with unique ID travelersbackpack.standard_11.12.2024-19.09.03.dat
+[11Dec2024 19:09:03.750] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 4225 Y: 148.0 Z: -5887
+[11Dec2024 19:11:43.200] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ramonVG lost connection: Disconnected
+[11Dec2024 19:11:43.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ramonVG left the game
