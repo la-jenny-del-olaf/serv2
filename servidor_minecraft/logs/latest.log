@@ -98,3 +98,11 @@
 [11Dec2024 18:48:50.846] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 11840 ms
 [11Dec2024 18:48:50.847] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (49.709s)! For help, type "help"
 [11Dec2024 18:48:50.918] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[11Dec2024 19:03:06.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[11Dec2024 19:03:06.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: stard<--[HERE]
+[11Dec2024 19:06:32.619] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ramonVG[/100.86.94.67:60959] logged in with entity id 188 at (4225.429009241032, 148.0, -5886.889916389733)
+[11Dec2024 19:06:32.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ramonVG joined the game
+[11Dec2024 19:06:32.837] [Server thread/INFO] [Jade/]: Syncing config to ramonVG (9379c9f5-8832-323d-90bf-60c841fad27c)
+[11Dec2024 19:06:38.440] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5739ms or 114 ticks behind
+[11Dec2024 19:07:02.560] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ramonVG lost connection: Disconnected
+[11Dec2024 19:07:02.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ramonVG left the game
